@@ -1,0 +1,16 @@
+{
+  "name": "tonebreaker",
+  "version": "1.0.0",
+  "description": "Tone breaker is an AI powered digital musical instrument.",
+  "main": "src/tonebreaker.js",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build --outDir docs",
+    "preview": "vite preview --outDir docs"
+  },
+  "author": "Buddhi Kavindra",
+  "license": "MIT",
+  "dependencies": {
+    "vite": "^5.2.11"
+  }
+}
